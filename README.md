@@ -1,1 +1,1 @@
-# dz4-secret-code
+simply enter numbers in console and it will calculate for u 
